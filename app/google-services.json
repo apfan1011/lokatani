@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870582884191",
+    "firebase_url": "https://pbl-semester-6-63d73-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pbl-semester-6-63d73",
+    "storage_bucket": "pbl-semester-6-63d73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870582884191:android:d038180fdd1d1da52e48ea",
+        "android_client_info": {
+          "package_name": "com.example.lokatani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870582884191-8t78lf4on7rh8je5eb51taurqtif35cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIeMLzzaTVxLHB7IwFRzeGvSpmJ5LIACw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870582884191-8t78lf4on7rh8je5eb51taurqtif35cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
